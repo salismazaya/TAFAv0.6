@@ -1,5 +1,5 @@
 # TAFA (Toolkit For Facebook)
-![LOGO](https://github.com/salismazaya/TAFA/blob/master/Screenshot%20(2).png)
+![LOGO](https://github.com/salismazaya/TAFAv0.6/blob/master/Screenshot%20(2).png)
 # requirements
 - python 3.x
 - module requests
